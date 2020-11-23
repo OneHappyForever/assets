@@ -1,0 +1,106 @@
+.page-type-full .main-body.login-page {
+    background: linear-gradient(90deg,#27428F,#7081B5);
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #586CA9;
+    border-color: #586CA9;
+}
+
+.btn-primary.active, .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary.focus, .btn-primary:active, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary:focus, .btn-primary:hover, .open>.btn-primary.dropdown-toggle, .open>.btn-primary.dropdown-toggle.focus, .open>.btn-primary.dropdown-toggle:focus, .open>.btn-primary.dropdown-toggle:hover {
+    color: #fff;
+    background-color: #41599C;
+    border-color: #41599C;
+}
+
+a {
+    color: #27428F;
+}
+
+.form-control:focus, .module-custom-output input[type=text]:focus {
+    border-color: #586CA9;
+    outline: 0;
+}
+
+@media (min-width: 992px) {
+	.lagom-layout-left-wide .app-nav {
+	    background: #27428F;
+    }
+}
+
+.tile .stat {
+    color: #27428F;
+}
+
+a.tile:hover {
+    border-color: #27428F;
+    cursor: pointer;
+}
+
+.panel-sidebar .list-group>a.list-group-item, .panel-sidebar .list-group>a.list-group-item>i {
+    color: #27428F;
+}
+
+.panel-sidebar .list-group>a.list-group-item.active:focus>i, .panel-sidebar .list-group>a.list-group-item.active:hover>i, .panel-sidebar .list-group>a.list-group-item.active>i {
+    color: #27428F;
+}
+
+ul.top-nav>li.open>a, ul.top-nav>li.open>a>i, ul.top-nav>li:active>a, ul.top-nav>li:active>a>b, ul.top-nav>li:active>a>i, ul.top-nav>li:focus>a, ul.top-nav>li:focus>a>b, ul.top-nav>li:focus>a>i, ul.top-nav>li:hover>a, ul.top-nav>li:hover>a>b, ul.top-nav>li:hover>a>i, ul.top-nav>li>a:focus, ul.top-nav>li>a:focus>b, ul.top-nav>li>a:focus>i {
+    color: #27428F;
+}
+
+@media (max-width: 991px) {
+    .lagom .navbar-main {
+        background: #27428F;
+    }
+
+    .tile .stat {
+        font-size: 22px !important;
+    }
+
+    .tile .title {
+        font-size: 18px !important;
+    }
+
+    .mgate-carousel {
+        margin-bottom: 20px;
+    }
+}
+
+.mgate-carousel .slick-dots button {
+    background: #2D438A !important;
+}
+
+.logo {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.logo:hover {
+  opacity: .5;
+}
+
+.tile {
+  border: unset;
+}
+
+.logo-xs {
+  color: #27428F;
+  font-size: 30px;
+  font-weight: 500;
+  margin-top: 15px;
+}
+
+.panel-stat {
+  background: #27428E !important;
+}
+
+.panel-stat .panel-body {
+  max-height: unset !important;
+}
+
+.container {
+  width: 100% !important;
+}
